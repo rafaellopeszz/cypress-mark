@@ -1,0 +1,11 @@
+{
+  "name": "cypress-express-markL",
+  "version": "1.0.0",
+  "description": "projeto de testes de ponta a ponta no markL",
+  "main": "index.js",
+  "author": "Rafael",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
